@@ -1,0 +1,21 @@
+guest_id,name,discount
+1,'default',0
+2,'Widget Enterprises',10.0
+3,'Globex Corporation',20.0
+4,'Initech',12.5
+5,'Umbrella Corporation',18.0
+6,'Stark Industries',8.0
+7,'Wayne Enterprises',14.0
+8,'LexCorp',10.0
+9,'Weyland-Yutani Corporation',25.0
+10,'Tyrell Corporation',15.0
+11,'Aperture Science',10.0
+12,'Virtucon',20.0
+13,'Gringotts Bank',5.0
+14,'Hogwarts School of Witchcraft and Wizardry',12.0
+15,'Monsters, Inc.',17.5
+16,'Spacely Sprockets',8.5
+17,'Cunningham Hardware',9.0
+18,'Cyberdyne Systems Corporation',22.0
+19,'Dunder Mifflin',11.0
+20,'Monarch Solutions',13.0

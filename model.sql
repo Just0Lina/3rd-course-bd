@@ -146,7 +146,7 @@ CREATE OR REPLACE PROCEDURE import_csv(table_name VARCHAR, pth VARCHAR, delim VA
 $$
 BEGIN
     EXECUTE format('TRUNCATE TABLE bd_hotel.%I CASCADE', table_name);
-    EXECUTE format('COPY bd_hotel.%I FROM %L DELIMITER %L CSV HEADER', table_name, pth, delim);
+    EXECUTE format( '\/copy bd_hotel.%I FROM %L WITH DELIMITER %L CSV HEADER', table_name, pth, delim);
 END;
 $$ LANGUAGE plpgsql;
 

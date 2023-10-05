@@ -2,7 +2,7 @@
 DO $$
 DECLARE
   -- change to full path to the same directory on your system
-  dir_path VARCHAR := '/home/alina/3rd_course/bd/datasets';
+  dir_path VARCHAR := 'C:/Users/alina/Desktop/datasets';
 BEGIN
   call import_csv('clients', format('%s/clients.csv', dir_path), ',');
 --   call import_csv('buildings', format('%s/buildings.csv', dir_path));

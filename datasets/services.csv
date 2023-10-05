@@ -1,0 +1,38 @@
+service_id,type_id,name,price
+1,1,'Ресторан "La Petite Cuisine"',5000.00
+2,2,'Бассейн "Azure Waters"',250.00
+3,3,'Спа-центр "Harmony Retreat"',6000.00
+4,4,'Фитнес-зал "FitZone"',200.00
+5,5,'Бар "Blue Eyes Lounge"',3000.00
+6,6,'Кофейня "Coffee Haven"',715.00
+7,7,'Конференц-зал "Elegance Plaza"',1000.00
+8,8,'Детская игровая комната "Kids Funland"',300.00
+9,9,'Услуги прачечной "CleanBreeze"',200.00
+10,10,'Сейф "SecureVault"',100.00
+11,11,'Бесплатный Wi-Fi',0.00
+12,12,'Парковка "Park & Go"',200.00
+13,13,'Обмен валюты "Currency Exchange"',10.00
+14,14,'Экскурсионное бюро "ExploreWorld"',1000.00
+15,15,'Бизнес-центр "BusinessHub"',250.00
+16,16,'Услуги няни "NannyCare"',1200.00
+17,17,'Банкомат "Cash Express"',0.00
+18,18,'Обслуживание номеров "Room Service"',0.00
+19,19,'Трансфер из/в аэропорт "Airport Shuttle"',300.00
+20,20,'Услуги гладильщика "Ironing Express"',150.00
+21,1,'Ресторан "Le Jardin de Saveurs"',1500.00
+22,2,'Бассейн "Crystal Waters"',280.00
+23,3,'Спа-центр "Serenity Spa"',650.00
+24,4,'Фитнес-зал "FitFusion"',220.00
+25,5,'Бар "Sunset Lounge"',750.00
+26,6,'Кофейня "Café de Luxe"',370.00
+27,7,'Конференц-зал "Grand Conference Plaza"',11000.00
+28,8,'Детская игровая комната "Kids World"',1200.00
+29,9,'Услуги прачечной "Fresh Laundry"',600.00
+30,10,'Сейф "SecureVault Plus"',0
+31,12,'Парковка "Park & Fly"',0.00
+32,14,'Экскурсионное бюро "Adventure Seekers"',1800.00
+33,15,'Бизнес-центр "BizTech Hub"',27.00
+34,16,'Услуги няни "NannyCare Plus"',1400.00
+35,17,'Банкомат "Cash Express Pro"',7.00
+36,18,'Обслуживание номеров "Room Service Deluxe"',240.00
+37,19,'Трансфер из/в аэропорт "Airport Shuttle VIP"',3500.00
